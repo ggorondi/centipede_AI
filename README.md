@@ -7,7 +7,13 @@ This project focuses on building an intelligent agent capable of playing the Cen
 ## Project Overview
 
 Unlike the original DeepMind paper, which used a shared Convolutional Neural Network (CNN) architecture across all Atari games, I was curious to see if a much smaller NN would accomplish the job in one particular game (if fed rich customized parameters). I chose to extract a custom state consisting of 18 parameters (location of player,spider,centipedes), and this state representation was then fed into a small neural network consisting of only 3 fully connected layers of 64 x 32 x 32 neurons respectively. The architecture of the network was determined through trial and error, aiming for a balance between complexity and performance.
-The whole project is written in python and uses Tensorflow with Keras to build and train the NN.
+
+## Repository Contents
+- `test_agent.py`: Can be run to test the agent. It creates a gymnasium environment, an agent, and renders a window with the game being played.
+- `agent.py`: Acts as the agent, loads the pre-trained model and interacts with the env.
+- `state_extractor.py`: Is used by the agent to extract a low dimensional state from the environment, to feed into the model.
+- `DQN_training.py`: Was used to train the agent. It implements a DQN RL approach (observe, learn, repeat, test) to train the model iteratively.
+- 'gifs_imgs_txts/': Has some extra resources; gifs showing the agents in action, as well as a jupiter notebook with graphs of the training process.
 
 ## Training Process
 
