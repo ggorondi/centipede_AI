@@ -7,6 +7,7 @@ This project focuses on building an intelligent agent capable of playing the Cen
 ## Project Overview
 
 Unlike the original DeepMind paper, which used a shared Convolutional Neural Network (CNN) architecture across all Atari games, I was curious to see if a much smaller NN would accomplish the job in one particular game (if fed rich customized parameters). I chose to extract a custom state consisting of 18 parameters (location of player,spider,centipedes), and this state representation was then fed into a small neural network consisting of only 3 fully connected layers of 64 x 32 x 32 neurons respectively. The architecture of the network was determined through trial and error, aiming for a balance between complexity and performance.
+The whole project is written in python and uses Tensorflow with Keras to build and train the NN.
 
 ## Training Process
 
