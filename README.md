@@ -16,11 +16,11 @@ Training the agent was a challenging and iterative process. The Deep Q-Learning 
 
 ### Agent Before Training
 
-![Agent Before Training](agent_before_training.gif)
+![Agent Before Training](gifs_imgs_txts/model_0.gif)
 
 ### Agent After Training
 
-![Agent After Training](agent_after_training.gif)
+![Agent After Training](gifs_imgs_txts/model_630b.gif)
 
 After several nights of training, the best performing agent achieves significantly higher scores than a random agent (~8400 vs ~2500 pts on average). Although the scores are not nearly as good as the ones Deepmind achieved, the agent visibly demonstrates the ability to learn and adapt to the game environment. It correctly learns to follow the centipedes location and avoid spiders, on the other hand it lacks the ability to dodge the centipede once it reaches the bottom. The project serves as a valuable learning experience in reinforcement learning and deep learning techniques applied to video game AI.
 
