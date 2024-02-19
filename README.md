@@ -2,6 +2,7 @@
 
 This project focuses on building an intelligent agent capable of playing the Centipede video game within the Gymnasium (previously openAI Gym) environment with unsupervised learning. The agent selects actions based on a small neural network constructed using TensorFlow and Keras, trained with Deep Q-Network (DQN) reinforcement learning.
 
+![Agent After Training](gifs_imgs_txts/model_200.gif)
 
 ## Project Overview
 
