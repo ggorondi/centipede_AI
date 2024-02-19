@@ -1,0 +1,265 @@
+Test de 10 partidos con una selección de modelos, para ver el avg reward sin tanta variación. Modelo 100: model despues de 100 epochs de training, cada epoch fitea el model con 5 minibatches de 100 tuplas (state,action,next_state,reward).
+Using model random, lets call it -100
+Game ended! Total reward: 2766.0
+Game ended! Total reward: 974.0
+Game ended! Total reward: 2732.0
+Game ended! Total reward: 3670.0
+Game ended! Total reward: 4371.0
+Game ended! Total reward: 2728.0
+Game ended! Total reward: 1967.0
+Game ended! Total reward: 4588.0
+Game ended! Total reward: 844.0
+Game ended! Total reward: 3497.0
+Average reward: 2813.7
+Imported model 0
+Game ended! Total reward: 5277.0
+Game ended! Total reward: 8224.0
+Game ended! Total reward: 2883.0
+Game ended! Total reward: 9485.0
+Game ended! Total reward: 8618.0
+Game ended! Total reward: 5725.0
+Game ended! Total reward: 7742.0
+Game ended! Total reward: 15726.0
+Game ended! Total reward: 6237.0
+Game ended! Total reward: 3665.0
+Average reward: 7358.2
+Imported model 20
+Game ended! Total reward: 7202.0
+Game ended! Total reward: 3391.0
+Game ended! Total reward: 1006.0
+Game ended! Total reward: 6310.0
+Game ended! Total reward: 3150.0
+Game ended! Total reward: 3546.0
+Game ended! Total reward: 4432.0
+Game ended! Total reward: 2733.0
+Game ended! Total reward: 8892.0
+Game ended! Total reward: 5236.0
+Average reward: 4589.8
+Imported model 50
+Game ended! Total reward: 5475.0
+Game ended! Total reward: 1222.0
+Game ended! Total reward: 1464.0
+Game ended! Total reward: 1338.0
+Game ended! Total reward: 1702.0
+Game ended! Total reward: 1605.0
+Game ended! Total reward: 3259.0
+Game ended! Total reward: 1222.0
+Game ended! Total reward: 1425.0
+Game ended! Total reward: 1925.0
+Average reward: 2063.7
+Imported model 100
+Game ended! Total reward: 2237.0
+Game ended! Total reward: 1956.0
+Game ended! Total reward: 1956.0
+Game ended! Total reward: 3163.0
+Game ended! Total reward: 3366.0
+Game ended! Total reward: 4067.0
+Game ended! Total reward: 1946.0
+Game ended! Total reward: 2532.0
+Game ended! Total reward: 5226.0
+Game ended! Total reward: 6330.0
+Average reward: 3277.9
+Imported model 150
+Game ended! Total reward: 2657.0
+Game ended! Total reward: 1322.0
+Game ended! Total reward: 4909.0
+Game ended! Total reward: 6808.0
+Game ended! Total reward: 1838.0
+Game ended! Total reward: 1427.0
+Game ended! Total reward: 4709.0
+Game ended! Total reward: 1697.0
+Game ended! Total reward: 4024.0
+Game ended! Total reward: 3709.0
+Average reward: 3310.0
+Imported model 200
+Game ended! Total reward: 13810.0
+Game ended! Total reward: 12304.0
+Game ended! Total reward: 5718.0
+Game ended! Total reward: 6079.0
+Game ended! Total reward: 6721.0
+Game ended! Total reward: 6817.0
+Game ended! Total reward: 3804.0
+Game ended! Total reward: 15924.0
+Game ended! Total reward: 5145.0
+Game ended! Total reward: 4093.0
+Average reward: 8041.5
+Imported model 250
+Game ended! Total reward: 3036.0
+Game ended! Total reward: 1088.0
+Game ended! Total reward: 5004.0
+Game ended! Total reward: 3645.0
+Game ended! Total reward: 3441.0
+Game ended! Total reward: 4572.0
+Game ended! Total reward: 6501.0
+Game ended! Total reward: 3879.0
+Game ended! Total reward: 4793.0
+Game ended! Total reward: 4347.0
+Average reward: 4030.6
+Imported model 300
+Game ended! Total reward: 4019.0
+Game ended! Total reward: 2356.0
+Game ended! Total reward: 2339.0
+Game ended! Total reward: 1931.0
+Game ended! Total reward: 1590.0
+Game ended! Total reward: 1225.0
+Game ended! Total reward: 1737.0
+Game ended! Total reward: 5254.0
+Game ended! Total reward: 4010.0
+Game ended! Total reward: 2540.0
+Average reward: 2700.1
+Imported model 350
+Game ended! Total reward: 2690.0
+Game ended! Total reward: 4236.0
+Game ended! Total reward: 2178.0
+Game ended! Total reward: 4815.0
+Game ended! Total reward: 2427.0
+Game ended! Total reward: 4993.0
+Game ended! Total reward: 2084.0
+Game ended! Total reward: 2508.0
+Game ended! Total reward: 2612.0
+Game ended! Total reward: 2686.0
+Average reward: 3122.9
+Imported model 400
+Game ended! Total reward: 5718.0
+Game ended! Total reward: 4404.0
+Game ended! Total reward: 9956.0
+Game ended! Total reward: 11506.0
+Game ended! Total reward: 5203.0
+Game ended! Total reward: 4372.0
+Game ended! Total reward: 5302.0
+Game ended! Total reward: 6129.0
+Game ended! Total reward: 3114.0
+Game ended! Total reward: 1807.0
+Average reward: 5751.1
+Imported model 405
+Game ended! Total reward: 8311.0
+Game ended! Total reward: 5337.0
+Game ended! Total reward: 15587.0
+Game ended! Total reward: 6604.0
+Game ended! Total reward: 6498.0
+Game ended! Total reward: 8182.0
+Game ended! Total reward: 2743.0
+Game ended! Total reward: 2831.0
+Game ended! Total reward: 3316.0
+Game ended! Total reward: 5408.0
+Average reward: 6481.7
+Imported model 450
+Game ended! Total reward: 5212.0
+Game ended! Total reward: 3710.0
+Game ended! Total reward: 9821.0
+Game ended! Total reward: 3416.0
+Game ended! Total reward: 5690.0
+Game ended! Total reward: 7153.0
+Game ended! Total reward: 8853.0
+Game ended! Total reward: 1954.0
+Game ended! Total reward: 9682.0
+Game ended! Total reward: 6051.0
+Average reward: 6154.2
+Imported model 500
+Game ended! Total reward: 4969.0
+Game ended! Total reward: 1093.0
+Game ended! Total reward: 1124.0
+Game ended! Total reward: 1825.0
+Game ended! Total reward: 893.0
+Game ended! Total reward: 2981.0
+Game ended! Total reward: 1307.0
+Game ended! Total reward: 1415.0
+Game ended! Total reward: 2720.0
+Game ended! Total reward: 2680.0
+Average reward: 2100.7
+Imported model 550
+Game ended! Total reward: 1404.0
+Game ended! Total reward: 2152.0
+Game ended! Total reward: 1404.0
+Game ended! Total reward: 1404.0
+Game ended! Total reward: 2152.0
+Game ended! Total reward: 1404.0
+Game ended! Total reward: 1404.0
+Game ended! Total reward: 1404.0
+Game ended! Total reward: 2152.0
+Game ended! Total reward: 2152.0
+Average reward: 1703.2
+Imported model 565
+Game ended! Total reward: 7481.0
+Game ended! Total reward: 7480.0
+Game ended! Total reward: 6884.0
+Game ended! Total reward: 7480.0
+Game ended! Total reward: 8461.0
+Game ended! Total reward: 7480.0
+Game ended! Total reward: 9016.0
+Game ended! Total reward: 8509.0
+Game ended! Total reward: 7480.0
+Game ended! Total reward: 7480.0
+Average reward: 7775.1
+Imported model 600
+Game ended! Total reward: 4181.0
+Game ended! Total reward: 1406.0
+Game ended! Total reward: 13880.0
+Game ended! Total reward: 4231.0
+Game ended! Total reward: 9394.0
+Game ended! Total reward: 3326.0
+Game ended! Total reward: 6008.0
+Game ended! Total reward: 5027.0
+Game ended! Total reward: 2799.0
+Game ended! Total reward: 5235.0
+Average reward: 5548.7
+Imported model 630
+Game ended! Total reward: 5421.0
+Game ended! Total reward: 5035.0
+Game ended! Total reward: 7047.0
+Game ended! Total reward: 13825.0
+Game ended! Total reward: 5578.0
+Game ended! Total reward: 5578.0
+Game ended! Total reward: 5922.0
+Game ended! Total reward: 4884.0
+Game ended! Total reward: 5663.0
+Game ended! Total reward: 9010.0
+Average reward: 6796.3
+Imported model 650
+Game ended! Total reward: 2487.0
+Game ended! Total reward: 3145.0
+Game ended! Total reward: 3461.0
+Game ended! Total reward: 2484.0
+Game ended! Total reward: 5186.0
+Game ended! Total reward: 7652.0
+Game ended! Total reward: 4413.0
+Game ended! Total reward: 4246.0
+Game ended! Total reward: 6207.0
+Game ended! Total reward: 6637.0
+Average reward: 4591.8
+Imported model 680
+Game ended! Total reward: 3128.0
+Game ended! Total reward: 8658.0
+Game ended! Total reward: 5445.0
+Game ended! Total reward: 5663.0
+Game ended! Total reward: 7931.0
+Game ended! Total reward: 8198.0
+Game ended! Total reward: 5111.0
+Game ended! Total reward: 13633.0
+Game ended! Total reward: 8245.0
+Game ended! Total reward: 6707.0
+Average reward: 7271.9
+Imported model 700
+Game ended! Total reward: 3775.0
+Game ended! Total reward: 1227.0
+Game ended! Total reward: 6088.0
+Game ended! Total reward: 965.0
+Game ended! Total reward: 1760.0
+Game ended! Total reward: 1642.0
+Game ended! Total reward: 3263.0
+Game ended! Total reward: 1645.0
+Game ended! Total reward: 1675.0
+Game ended! Total reward: 1184.0
+Average reward: 2322.4
+Imported model 710
+Game ended! Total reward: 1404.0
+Game ended! Total reward: 1410.0
+Game ended! Total reward: 2255.0
+Game ended! Total reward: 1817.0
+Game ended! Total reward: 1404.0
+Game ended! Total reward: 2893.0
+Game ended! Total reward: 1697.0
+Game ended! Total reward: 1404.0
+Game ended! Total reward: 2015.0
+Game ended! Total reward: 2021.0
+Average reward: 1832.0
